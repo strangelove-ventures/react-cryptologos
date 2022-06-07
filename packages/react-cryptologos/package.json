@@ -1,0 +1,22 @@
+{
+  "name": "react-cryptologos",
+  "description": "Icons from cryptologos.cc as React components ⚛️",
+  "version": "0.0.1",
+  "author": "Griko Nibras <griko@stranvgelove.ventures>",
+  "repository": "https://github.com/strangelove-ventures/react-cryptologos.git",
+  "homepage": "https://github.com/strangelove-ventures/react-cryptologos",
+  "bugs": "https://github.com/strangelove-ventures/react-cryptologos/issues",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "peerDependencies": {
+    "react": "^16.8 || ^17 || ^18"
+  },
+  "files": [
+    "**/*.jsx",
+    "**/*.tsx",
+    "**/*.ts",
+    "**/*.d.ts"
+  ],
+  "license": "MIT"
+}
